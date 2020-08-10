@@ -23,5 +23,6 @@ public class Demo03RandomGame {
                 break;
             }
         }
+        System.out.println("游戏结束！");
     }
 }
