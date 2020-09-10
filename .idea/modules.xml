@@ -10,10 +10,14 @@
       <module fileurl="file://$PROJECT_DIR$/day08-code/day08-code.iml" filepath="$PROJECT_DIR$/day08-code/day08-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10-code/day10-code.iml" filepath="$PROJECT_DIR$/day10-code/day10-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/myArrays/myArrays.iml" filepath="$PROJECT_DIR$/myArrays/myArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCollection/myCollection.iml" filepath="$PROJECT_DIR$/myCollection/myCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myException/myException.iml" filepath="$PROJECT_DIR$/../myException/myException.iml" />
       <module fileurl="file://$PROJECT_DIR$/myExtends/myExtends.iml" filepath="$PROJECT_DIR$/myExtends/myExtends.iml" />
       <module fileurl="file://$PROJECT_DIR$/myInteger/myInteger.iml" filepath="$PROJECT_DIR$/myInteger/myInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/myInterface/myInterface.iml" filepath="$PROJECT_DIR$/myInterface/myInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myList/myList.iml" filepath="$PROJECT_DIR$/myList/myList.iml" />
       <module fileurl="file://$PROJECT_DIR$/myObject/myObject.iml" filepath="$PROJECT_DIR$/myObject/myObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySimpleDateFormat/mySimpleDateFormat.iml" filepath="$PROJECT_DIR$/mySimpleDateFormat/mySimpleDateFormat.iml" />
       <module fileurl="file://$PROJECT_DIR$/studentManager/studentManager.iml" filepath="$PROJECT_DIR$/studentManager/studentManager.iml" />
     </modules>
   </component>
