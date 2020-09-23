@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>拖拽</title>
+    <style>
+        #div1 {
+            width: 100px;
+            height: 100px;
+            background: red;
+            position: absolute;
+        }
+    </style>
+</head>
+<body>
+<div id="div1"></div>
+
+<script>
+
+    function Drag(id) {
+        this.disX = 0;
+        this.disY = 0;
+        this.elem = document.getElementById(id);
+    }
+    Drag.prototype.init = function() {
+        var This = this;
+        this.elem.onmousedown = function(ev) {
+            This.fnDown(ev);
+        };
+    };
+
+    Drag.prototype.fnDown = function(ev) {
+        //alert("鼠标按下");
+    };
+
+    var d1 = new Drag("div1");
+    d1.init();
+
+</script>
+</body>
+</html>
