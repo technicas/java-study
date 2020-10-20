@@ -3,13 +3,14 @@ package com.pyzn_06_HashMapIncludeArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 import java.util.Set;
+import java.util.TreeMap;
 
 public class HashMapCharacterDemo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String line = sc.nextLine ();
 
-        HashMap<Character, Integer> hm = new HashMap<>();
+        TreeMap<Character, Integer> hm = new TreeMap<>();
 
         for (int i = 0; i < line.length(); i ++) {
             char key = line.charAt(i);
